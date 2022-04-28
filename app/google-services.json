@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028345981988",
+    "project_id": "sample-inter",
+    "storage_bucket": "sample-inter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028345981988:android:a2623fe15c61fc4d703cb1",
+        "android_client_info": {
+          "package_name": "com.interview.practicall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028345981988-b4f7b2t9gcfb2npf41t6pgu3m3o95mrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8FJmMsw8v9v0-vqOFr3teMCJiu4a__w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028345981988-b4f7b2t9gcfb2npf41t6pgu3m3o95mrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
